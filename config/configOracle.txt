@@ -1,0 +1,6 @@
+chaos=1
+event-occurs=0
+sens-chaos=augmente
+oracle-query=0
+choixMenu=0
+nb-event-dispo=100

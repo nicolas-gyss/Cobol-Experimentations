@@ -1,0 +1,6 @@
+Créer un logiciel qui réaliser le total des ventes pour chaque département.
+Le fichier contient des lignes structurées de la manière suivante:
+<num-dept(2)><montant(7,2)
+
+Pour chaque département afficher le message suivant:
+Total pour le département <num-dept> : <montant>
