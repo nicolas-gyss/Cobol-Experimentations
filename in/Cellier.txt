@@ -1,0 +1,20 @@
+E;Bordeaux;Merlot;125
+E;Alsace;Riesling;210
+E;Bordeaux;Cabernet Sauvignon;078
+E;Bourgogne;Chardonnay;015
+E;Alsace;Cremant;156
+E;Rhone;Viognier;054
+E;Alsace;Gewurztraminer;034
+E;Languedoc;Grenache;099
+E;Val de Loire;Sauvignon Blanc;067
+E;Bordeaux;Merlot;301
+E;Alsace;Riesling;180
+S;Bourgogne;Pinot Noir;112
+S;Languedoc;Grenache;045
+S;Val de Loire;Chenin Blanc;007
+S;Bordeaux;Cabernet Sauvignon;200
+S;Val de Loire;Chenin Blanc;003
+S;Rhone;Syrah;088
+S;Bourgogne;Pinot Noir;045
+S;Bourgogne;Chardonnay;090
+S;Rhone;Syrah;220
