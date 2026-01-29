@@ -1,0 +1,182 @@
+Dans ce fichier vous trouverez l'ensemble des énoncés de chaque exercice expérimenté
+
+Exercice 1 : Addition de nombres
+Le programme demande à l'utilisateur de saisir un nombre N.
+On additionne ensuite toutes les valeurs d'un compteur de 1 à N et on affiche le résultat.
+Exemple: N = 3
+Résultat = 1 + 2 + 3
+
+Exercice 2 : Pair
+Le programme permet d'afficher sur une ligne tous les nombres pairs entre 0 et 20. (0 exclu)
+
+Exercice 3 : Majorite
+Le programme demande à l'utilisateur de saisir son âge et affiche s'il est majeur ou mineur.
+
+Exercice 4 : Moyenne
+Le programme demande à l'utilisateur le nombre de notes à saisir et calcule la moyenne de ces notes.
+
+Exercice 5 : estpremier
+Le programme demande à l'utilisateur de saisir un nombre et indique si ce nombre est premier ou non.
+
+Exercice 7 : fonctionsimples
+Le programme demande à l'utilisateur de saisir son nom et un âge. Il affiche ensuite un message formaté et si la personne est majeur ou non. Le but de cet exercice est d'utiliser les fonctions simples de transformation de variable et de traitement basique sur les chaînes de caractères.
+
+Exercice 8 : tableau1
+Le programme demande à l'utilisateur de saisir 5 valeurs qui seront stockées dans un tableau. Objectif : Appréhender le fonctionnement d'un tableau à 1 dimension.
+
+Exercice 8 : tableau2
+Le programme demande à l'utilisateur de saisir 5 valeurs qui seront stockées dans un tableau. Il affiche ensuite la somme des valeurs saisies. Objectif : Exploitation des données stockées dans un tableau et parcours du tableau.
+
+Exercice 8 : tableau3
+Le programme demande à l'utilisateur de saisir 10 valeurs qui seront stockées dans un tableau. Il affiche ensuite la liste des valeurs saisies et la valeur maximale trouvée.
+
+Exercice 9 : tableaudouble1
+Le programme demande à l'utilisateur de saisir le nom d'un étudiant suivi de 4 notes. 3 étudiants seront présents dans le tableau.
+ Il affiche un résumé des notes saisies par étudiant. Objectif: Appréhender le fonctionnement d'un tableau à 2 dimensions.
+
+Exercice 9 : tableaudouble2
+Le programme demande à l'utilisateur de saisir le nom d'un étudiant suivi de 4 notes. 3 étudiants seront présents dans le tableau.
+ Il affiche la moyenne des notes saisies par étudiant. Objectif: Appréhender le fonctionnement d'un tableau à 2 dimensions et exploitation des données saisies.
+
+Exercice 9 : tableaudouble3
+Le programme demande à l'utilisateur de saisir le nom d'un vendeur suivi du nombre de ventes réalisées par trimestre. 2 vendeurs seront présents dans le tableau. Il affiche ensuite un résumé des ventes. Objectif: Appréhender le fonctionnement d'un tableau à 2 dimensions et exploitation des données saisies.
+
+Exercice 9 : tableaudouble4
+Le programme demande à l'utilisateur de saisir le nom d'un vendeur suivi du nombre de ventes réalisées par trimestre. 4 vendeurs seront présents dans le tableau. Il affiche ensuite un résumé des ventes par vendeur puis 2 rapports : Le nombre total de vente par année et par vendeur et le total des ventes par trimestre tous vendeurs confondus. Objectif: Appréhender le fonctionnement d'un tableau à 2 dimensions et exploitation des données saisies et travail algorithmique.
+
+Exercice 10 : ChaineSimple
+Le programme demande à l'utilisateur de saisir un nom et un prénom. Il met en forme cette saisie et l'affiche. Objectif: travail sur les chaînes de caractères et utilisation des fonctions dédiées au traitement des chaînes de caractères.
+
+Exercice 10 : ChaineSimpleComptage
+Le programme compte et affiche le nombre de caractères "o" présent dans la phrase "Bonjour à tous, bonne journée à tous.". Objectif:  travail sur les chaînes de caractères et utilisation des fonctions dédiées au traitement des chaînes de caractères.
+
+Exercice 10 : ChaineSimpleDecoupe
+Le programme décompose une chaine de caractère en sous-parties et affiche le résultat. Objectif : Travail sur les chaînes de caractères et utilisation des fonctions dédiées au traitement des chaînes de caractères.
+
+Exercice 11 : ChAvanceExtract
+Le programme décompose une donnée brute en sous-parties et affiche le résultat. Objectif : Travail sur les chaînes de caractères et utilisation des fonctions dédiées au traitement des chaînes de caractères.
+
+Exercice 12 : ChAvanceRIB
+Le programme analyse un RIB saisi par l'utilisateur et attribut les données à des champs spécifiques. Objectif : Travail sur les chaînes de caractères et utilisation des fonctions dédiées au traitement des chaînes de caractères.
+
+Exercice 12 : ChAvanceSwift
+Le programme analyse un message Swift et indique s'il est correcte. Objectif : Travail sur les chaînes de caractères et expérimentation des possibilités d'affichages. (Fond et couleur des caractères).
+
+Exercice 13 :  move1
+Le programme est uniquement dédié à l'expérimentation de l'instruction MOVE pour appréhender son fonctionnement.
+
+Exercice 14 : evaluate / evaluate-employe
+Le programme demande à l'utilisateur de saisir son âge et un statut. Les données sont analysées pour afficher un message adapté. Objectif : Appréhender le fonctionnement de la structure EVALUATE.
+
+Exercice 15 : lectureFichier
+Le programme lit un fichier de manière séquentielle, traite la ligne lue et affiche les informations de manières formatées. Objectif: Appréhender le fonctionnement des fichiers en mode lecture.
+ 
+Exercice 16 : lectureConfig
+Le programme lit un fichier de manière séquentielle, traite la ligne lue et affiche les informations de configuration de manières formatées. Objectif: Appréhender le fonctionnement des fichiers en mode lecture et exploitation pour la configuration d'un programme plus large.
+
+Exercice 17 : calculVente
+Le programme lit un fichier de manière séquentielle qui contient les ventes réalisées par département. Chaque ligne est formatée <num_dep><montant_vente>. Les données sont traités et le programme affiche le total des ventes par département de manière formatée. Objectif: Appréhender le fonctionnement des fichiers en mode lecture et exploitation des données.
+
+Exercice 18 : lectureClient
+Le programme lit un fichier de manière séquentielle, traite la ligne lue et affiche les informations des clients de manières formatées. Objectif: Appréhender le fonctionnement des fichiers en mode lecture et exploitation des données.
+
+Exercice 19 : triFichier
+Le programme lit un fichier de manière séquentielle et tri les informations en fonction de leur âge. Le résultat de ce tri est placé dans un fichier différent. Objectif : Appréhender le fonctionnement des traitements sur les fichiers et l'utilisation des descripteur de tri.
+
+Exercice 20 : fusionFichiers
+Le programme réalise la fusion de 2 fichiers de clients en les classant par âge croissant dans un fichier de sortie.  Objectif : Appréhender le fonctionnement des traitements sur les fichiers, l'utilisation des descripteur de tri et de l'instruction MERGE.
+
+Exercice : BA701-syracuse
+La conjecture de Syracuse prétend que le mode de calcul suivant arrive
+toujours à "1" quel que soit le nombre entier positif non nul choisi au
+départ.
+Si le nombre est pair, on le divise par 2 .
+S'il est impair, on le multiplie par 3 et ajoute 1 au résultat.
+On prend le nombre obtenu et on applique la même méthode jusqu'à
+obtenir le nombre 1.
+
+Exercice : BC101-max-et-min
+Lire des enregistrements qui contiennent chacun un nombre, et afficher le
+plus petit.
+Autre programme : idem mais afficher le plus petit et le plus grand.
+
+Exercice : BC103-commande-pizza
+Sachant que chaque convive mange 1,1 pizza (= 1 entière +1 dizième) et
+qu'il faut commander des pizzas entières, combien faut-il en commander ?
+Le nombre de convives sera passé en paramètre.
+
+Exercice : BC701-ecriture-fichier
+Objectif : utiliser les différents modes d'ouverture d'un fichier séquentiel.
+Lire un fichier (ECARTS) et écrire dans trois fichiers pour obtenir :
+- un fichier vide (ECART0),
+- un fichier identique (ECARTR) au fichier lu à part les zones numériques
+initialisées à zéro,
+- un fichier (ECARTA) comme le précédent, mais en conservant l'existant
+(écriture en extension).
+
+Exercice : BC801-manip-date
+Objectif : manipuler les différents formats numériques et afficher la date et
+l'heure.
+Ecrire dans un fichier une série de nombres sous les différents formats.
+Renseigner des zones avec la date et l'heure système et afficher la zone de
+groupe qui les rassemble.
+
+Exercice Avancé : BC802-gestion-ES-parking
+Obectif : manipuler une table indicée à deux niveaux.
+Au départ le parking est vide, il faut donner le détail de son occupation à la
+fin de l'activité.
+Chaque voiture qui entre dans le parking à deux étages va occuper la
+première place libre.
+Les voitures qui sortent peuvent avoir occupé n'importe quelle place.
+Les entrées-sorties seront passées par paramètre, avec un E ou un S suivi de
+l' identifiant de la voiture.
+Il faut prévoir le cas du parking plein, avec l'affichage d'un message.
+Il faut prévoir l'anomalie de demande de sortie d'un véhicule non
+enregistré, avec l'affichage d'un message.
+
+Exercice Avancé : BD101-gestion-frigo-resto
+Objectif : manipuler une table indicée à trois niveaux.
+Au départ les frigos sont vides. A la fin de l'activité, il faut donner le détail
+de l'occupation des frigos.
+Il y a 4 frigos avec chacun 5 rayons, et chaque rayon a 4 emplacements.
+Chaque plat doit être affecté au premier frigo qui a de la place, dans le
+premier rayon libre et dans le premier emplacement libre.
+Les plats sont identifiés ainsi que les personnes qui les placent.
+Si la personne qui sort un plat est différente de celle qui l'a entré, un
+message est affiché.
+
+Exercice Avancé : BD302-traitement-stock
+Objectif : manipuler une table indicée à deux niveaux avec cumul dans un
+poste.
+Un hangar a 5 allées avec 3 niveaux chacune.
+Le programme lit un fichier qui indique les entrées et les sorties de la
+marchandise avec sa quantité et son poids.
+Il va chercher le code de la marchandise dans la table hangar.
+S'il s'agit d'une entrée,
+et si le code est trouvé, il faut cumuler la quantité, et le poids,
+mais si le code n'est pas trouvé, il faut chercher la première place
+libre depuis le début de la table. S'il n'y plus de place, il faut le si gnaler.
+S'il s'agit d'une sortie,
+et si le code n'est pas trouvé, il faut signaler l'anomalie.
+mais si le code est trouvé, il faut diminuer la quantité et le poids.
+- Si on obtient une valeur négative, il faut signaler l'anomalie et
+remplacer cette valeur par zéro.
+- Si après calcul la quantité et le poids sont à zéro, il faut libérer la
+place en mettant à blanc le code marchandise dans la table.
+
+Exercice Avancé : BD501-gestion-cellier
+Objectif : manipuler une table indicée à deux niveaux avec cumul dans un
+poste.
+Table à 2 niveaux : Les bouteilles d'un cellier sont rangées dans un cellier
+par région et par cépage .
+Il y a 3 régions et chaque région a 4 cépages.
+Un fichier donne chaque mouvement, entrée ou sortie, avec le nombre de
+bouteilles, leur région et leur cépage.
+La table contient le nom de la région et le nom du cépage.
+Si le cépage ou la région a un stock vide, on conserve le nom du cépage ou
+de la région.
+
+
+
+
+
